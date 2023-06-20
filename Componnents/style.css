@@ -1,0 +1,48 @@
+body{
+   /* background-color: chocolate;  */
+   width: 100vw;
+   height: 100vh;
+   padding: 1px;
+   margin: 1px;
+   box-sizing: border-box;
+   
+}
+ .MainTitle{
+    display: flex;
+    margin: 500px;
+   color: aliceblue;
+}
+
+.MainDiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    background-color: blue;
+   
+    
+}
+/* .MainDiv.div.p{
+    
+    gap: 10%;
+    border-left: 100px solid white;
+    
+} */
+.HeaderContainer ul ,li {
+    background-color: rgb(226, 203, 203);
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    width: 100%;
+   
+    
+   
+}
+
+.footerContainer{
+    display: flex;
+   color: rgb(163, 137, 142);
+    justify-content: space-evenly;
+    background-color: antiquewhite;
+
+}
